@@ -1,5 +1,4 @@
 //This code is written by Mustafa Hesham Mohamed to evaluate a function using Tyler series expansion.
-//My student code at ISSR is 201800378.
 #include <iostream>
 #include <cmath>
 using namespace std;
