@@ -90,7 +90,7 @@ int main(){
 	}
 	}	
 }
-		cout<<"The f(x1)= "<<final<<"\t The relative error is "<<apperror<<"%"<<endl;
+		cout<<"The f(x1)= "<<final<<"\t The percentage error is "<<apperror<<"%"<<endl;
 		cout<<"Number of iterations is "<<iterations<<endl;
 	
 	return 0;	
